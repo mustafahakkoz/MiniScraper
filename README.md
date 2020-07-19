@@ -1,4 +1,4 @@
-## MiniScraper
+## MiniScraper.py
 
 Fetching some of the user information by exploiting the bug of follow button in Twitter.
 
